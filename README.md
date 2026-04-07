@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🛰️ SYSTEM BANNER -->
-<img src="https://capsule-render.vercel.app/render?type=thicket&color=0:36BCF7,100:8A2BE2&height=300&section=header&text=M.%20VIGNESH&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=62&descSize=22" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0:36BCF7,100:8A2BE2&height=300&section=header&text=M.%20VIGNESH&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=62&descSize=22" width="100%" />
 
 <!-- 📡 SYSTEM STATUS -->
 <p align="right">
@@ -101,9 +101,10 @@
 <br/>
 
 ### 🖇️ NEXUS CONNECTION
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/MR-VICKY-06)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-vignesh-677915295/)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Mr-Vicky-06)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://Mr-Vicky-06.github.io)
+[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/VigneshM882457)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://moonlit-sopapillas-856429.netlify.app/)
 
 <br/>
 
