@@ -19,8 +19,11 @@
 <a href="https://x.com/VigneshM882457">
   <img src="https://img.shields.io/badge/X-VigneshM882457-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://moonlit-sopapillas-856429.netlify.app/">
+<a href="https://my-portfolio-alpha-two-68.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<a href="https://github.com/Mr-Vicky-06/Mr-Vicky-06/blob/main/assets/Vignesh-Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-FF2E63?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 
 </div>
@@ -215,8 +218,11 @@ graph LR
 <a href="https://www.linkedin.com/in/m-vignesh-677915295/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://moonlit-sopapillas-856429.netlify.app/">
+<a href="https://my-portfolio-alpha-two-68.vercel.app/">
   <img src="https://img.shields.io/badge/View%20Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="View portfolio" />
+</a>
+<a href="https://github.com/Mr-Vicky-06/Mr-Vicky-06/blob/main/assets/Vignesh-Resume.pdf">
+  <img src="https://img.shields.io/badge/View%20Resume-FF2E63?style=for-the-badge&logo=readme&logoColor=white" alt="View resume" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF2E63,45:7C3AED,100:00D4FF&section=footer" width="100%" alt="Footer wave" />
