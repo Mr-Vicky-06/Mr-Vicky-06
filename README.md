@@ -84,36 +84,36 @@ I build intelligent systems where **AI, simulation, autonomous decision-making, 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mr-Vicky-06/Digital_twin_auto">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Vicky-06&repo=Digital_twin_auto&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF2E63&text_color=E6EDF3" width="100%" alt="Digital Twin Auto" />
+        <img src="https://socialify.git.ci/Mr-Vicky-06/Digital_twin_auto/image?font=Inter&name=1&theme=Dark" width="100%" alt="Digital Twin Auto" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mr-Vicky-06/ORION_PAX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Vicky-06&repo=ORION_PAX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00D4FF&text_color=E6EDF3" width="100%" alt="ORION PAX" />
+        <img src="https://socialify.git.ci/Mr-Vicky-06/ORION_PAX/image?font=Inter&name=1&theme=Dark" width="100%" alt="ORION PAX" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mr-Vicky-06/AI_IMAGE_SUPER_RESOLUTION">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Vicky-06&repo=AI_IMAGE_SUPER_RESOLUTION&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=7C3AED&text_color=E6EDF3" width="100%" alt="AI Image Super Resolution" />
+        <img src="https://socialify.git.ci/Mr-Vicky-06/AI_IMAGE_SUPER_RESOLUTION/image?font=Inter&name=1&theme=Dark" width="100%" alt="AI Image Super Resolution" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mr-Vicky-06/ROVIK">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Vicky-06&repo=ROVIK&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF2E63&text_color=E6EDF3" width="100%" alt="ROVIK" />
+        <img src="https://socialify.git.ci/Mr-Vicky-06/ROVIK/image?font=Inter&name=1&theme=Dark" width="100%" alt="ROVIK" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Mr-Vicky-06/RAG_BASED_ENVENT_MANGER">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Vicky-06&repo=RAG_BASED_ENVENT_MANGER&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00D4FF&text_color=E6EDF3" width="100%" alt="RAG Based Event Manager" />
+        <img src="https://socialify.git.ci/Mr-Vicky-06/RAG_BASED_ENVENT_MANGER/image?font=Inter&name=1&theme=Dark" width="100%" alt="RAG Based Event Manager" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Mr-Vicky-06/Reg_IQ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Vicky-06&repo=Reg_IQ&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E63&icon_color=7C3AED&text_color=E6EDF3" width="100%" alt="Reg_IQ" />
+        <img src="https://socialify.git.ci/Mr-Vicky-06/Reg_IQ/image?font=Inter&name=1&theme=Dark" width="100%" alt="Reg_IQ" />
       </a>
     </td>
   </tr>
